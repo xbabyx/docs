@@ -462,9 +462,13 @@ If your wallets are up-to-date & synced you should always be able to see your ba
 
 Yes, that is normal. Depending on the dApp you are interacting with, you might need to create an address in a different "group" than the one you currently have.
 
-For example, most dApps on Alephium, including the DeFi platform Ayin, require a "group 0" address to connect. Therefore, if your assets are in group 1 or group 2, you might need to create a new address in group 0 and move your assets there to interact with the dApp.
+For example, most dApps on Alephium require a "group 0" address to connect. Therefore, if your assets are in group 1 or group 2, you might need to create a new address in group 0 and move your assets there to interact with the dApp.
 
-This can all be done under the same secret recovery phrase. To create a new group address, follow the steps below:
+This can all be done under the same secret recovery phrase. To create a new group address, see [How do I create a Group 0 Address?](#how-do-i-create-a-group-0-address)
+
+### How do I create a Group 0 Address?
+
+Follow the steps below based on your wallet type.
 
 _Browser Extension:_
 
@@ -476,10 +480,11 @@ _Browser Extension:_
 
 _Alternatively:_
 
-1. Click on your account TOP LEFT of your Extension Wallet.
-2. Click on the “+” icon TOP RIGHT.
-3. In “Add a new account” menu, change “Group: any” to the group you want (i.e. Group 0).
-4. Click on “Create new Alephium account”.
+1. Click on your account name at the top left of your Extension Wallet.
+2. Click the "+" icon at the top right.
+3. In the "Add a new account" menu, click the account type dropdown (shows "Groupless" by default) and select "Default".
+4. Change "Group: any" to the group you need (e.g. Group 0).
+5. Click "Create new Alephium account".
 
 _Desktop & Mobile:_
 
