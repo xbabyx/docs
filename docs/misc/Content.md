@@ -249,6 +249,8 @@ Beware of Scams #3 - https://x.com/alephium/status/1856716333607526512
 
 ## Ecosystem Highlights and Ecosystem Updates
 
+🎥 Ecosystem Review - Apr/29/26 - https://x.com/alephium/status/2049473786735686049
+
 🎥 Alephium Assemble - Apr/15/26 - https://x.com/alephium/status/2044370273718431861
 
 🌱 February-March Ecosystem Highlights - https://x.com/alephium/status/2038503148512219165
@@ -348,6 +350,8 @@ Beware of Scams #3 - https://x.com/alephium/status/1856716333607526512
 🧬 Weekly #EcosystemUpdate - 16/03/24 - https://twitter.com/alephium/status/1769032453883363335
 
 ## Weekly Dev Updates
+
+⚙️ Weekly #DevUpdate! 🛠 - May/8/26 - https://x.com/alephium/status/2052742818653733328
 
 ⚙️ Weekly #DevUpdate! 🛠 - May/1/26 - https://x.com/alephium/status/2050198558108999850
 
