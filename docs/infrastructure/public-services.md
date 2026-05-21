@@ -75,7 +75,7 @@ The free public endpoint does not require an API key and is rate limited to 5 re
 
 ### AlphScan
 
-[AlphScan](https://alphscan.io) is a community-maintained project providing the following public mainnet endpoints, both running as load balancers with failover:
+AlphScan is a community-maintained project providing the following public mainnet endpoints, both running as load balancers with failover:
 
 * `https://node.mainnet.alphscan.io` for mainnet node API ([Docs](https://node.mainnet.alphscan.io/docs/))
 * `https://backend.mainnet.alphscan.io` for mainnet explorer backend ([Docs](https://backend.mainnet.alphscan.io/docs/))
