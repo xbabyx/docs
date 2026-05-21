@@ -56,3 +56,26 @@ To ensure the best performance and security, all of our public APIs have impleme
 To ensure a smooth experience while working within the rate limit, we highly recommend implementing cache and retry mechanisms when making requests to our API services. Caching responses can help reduce the number of API calls, while retrying failed requests can handle temporary issues or errors.
 
 If your application is built with the React framework, you can leverage the ["SWR"](https://www.npmjs.com/package/swr) package available on npm. SWR provides convenient hooks for data fetching and caching, making it easier to work with APIs. Specifically, you can use the `useSWR` hook for handling mutable data and the `useSWRImmutable` hook for handling immutable data such as token metadata.
+
+## Third Party & Community Node Services
+
+The following endpoints are provided and maintained by third parties or community members independently of Alephium. Availability, reliability, and rate limits may vary. Use them at your own discretion.
+
+### NOWNodes
+
+[NOWNodes](https://nownodes.io/nodes/alephium-alph) is a third party node provider offering a free public Alephium RPC node for mainnet.
+
+* `https://public-alephium.nownodes.io` for mainnet node API ([Docs](https://nownodes.gitbook.io/alph-alephium))
+
+The free public endpoint does not require an API key and is rate limited to 5 requests per second. For higher limits, an API key is available via [NOWNodes](https://nownodes.io/nodes/alephium-alph).
+
+### Flux
+
+[Flux](https://runonflux.io/) is a decentralized cloud infrastructure platform that allows anyone to deploy and run their own Alephium full node. For instructions on how to get started, see [Full Node on Flux](https://docs.alephium.org/full-node/run-on-flux).
+
+### AlphScan
+
+AlphScan is a community-maintained project providing the following public mainnet endpoints, both running as load balancers with failover:
+
+* `https://node.mainnet.alphscan.io` for mainnet node API ([Docs](https://node.mainnet.alphscan.io/docs/))
+* `https://backend.mainnet.alphscan.io` for mainnet explorer backend ([Docs](https://backend.mainnet.alphscan.io/docs/))
