@@ -647,6 +647,8 @@ Apr/22 - NiceHash NiceTalk - https://www.youtube.com/watch?v=JFTxolwLduc
 
 ## Powfi
 
+Jun/26 - 📣🧵 Powfi B2B2C Partner Workflow and Referral Integration Update - https://x.com/alephium/status/2062171318464954610
+
 Mar/26 - 📣🧵 Liquid Staking Is Live on Powfi Testnet - https://x.com/alephium/status/2033830709803290853
 
 Feb/26 - 📖✨ Alephium's Core dApp Powfi Is Live on Testnet - https://alephium.org/news/post/alephium-core-dapp-%E2%80%9Cpowfi%E2%80%9D-launches-on-testnet/
