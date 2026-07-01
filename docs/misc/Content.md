@@ -249,6 +249,8 @@ Beware of Scams #3 - https://x.com/alephium/status/1856716333607526512
 
 ## Ecosystem Highlights and Ecosystem Updates
 
+🌱 April-June Ecosystem Highlights - https://x.com/alephium/status/2072273312588218374
+
 🎥 Ecosystem Review - May/27/26 - https://x.com/alephium/status/2059620639573688580
 
 🎥 Ecosystem Review - May/13/26 - https://x.com/alephium/status/2054547213997506670
