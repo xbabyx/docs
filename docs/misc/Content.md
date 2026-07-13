@@ -249,6 +249,8 @@ Beware of Scams #3 - https://x.com/alephium/status/1856716333607526512
 
 ## Ecosystem Highlights and Ecosystem Updates
 
+🎥 Ecosystem Review - Jul/8/26 - https://x.com/alephium/status/2074840932927840654
+
 🌱 April-June Ecosystem Highlights - https://x.com/alephium/status/2072273312588218374
 
 🎥 Ecosystem Review - May/27/26 - https://x.com/alephium/status/2059620639573688580
@@ -458,6 +460,10 @@ Beware of Scams #3 - https://x.com/alephium/status/1856716333607526512
 ⚙️ Weekly #DevUpdate! 🛠 - Jun/11/25 -https://x.com/alephium/status/1932768251580162093
 
 ## Spaces, Podcasts & Videos
+
+Jul/10 - Space w/ Sonic & Alephium hosted by ChangeNOW, discussing how L1s compete on UX, culture and distribution - https://x.com/i/spaces/1rxmqqQVzaBxy
+
+Apr/20 - AMA with NOWNodes: Cloud or Bare Metal for Web3? - https://x.com/i/spaces/1pJdRbPApvNKW
 
 Feb/16 - Alephium's Growth Machine, Core dApp Testnet - https://x.com/i/spaces/1jMJgRRORaeGL
 
