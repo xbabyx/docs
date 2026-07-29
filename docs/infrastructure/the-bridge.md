@@ -144,3 +144,7 @@ The process is quite similar. have the ALPH BEP-20 token show in your Metamask w
 - You will see the bridge as one of the dApps connected. Click on it to disconnect.
 - Refresh the [redeem page](https://bridge.alephium.org/#/redeem)
 - Now select Ethereum/BSC as the source chain and reconnect your metamask wallet.
+
+### 12. What is the maximum consistency level supported by the bridge?
+
+Wormhole defines `consistencyLevel` as a `uint8`, so the maximum consistency level supported by the bridge is `255`.
